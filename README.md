@@ -1,4 +1,4 @@
-terminology
+Terminology
 ===========
 
-The Ankur India terminology project and its content
+The Ankur India Terminology project and its contents.
